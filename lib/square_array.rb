@@ -1,6 +1,6 @@
 def square_array(array)
   count=0
-  new_array - []
+  new_array = []
   while array[count]
     new_array.pop(array[count] ** 2)
     count += 1 
